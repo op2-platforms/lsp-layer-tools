@@ -1,0 +1,16 @@
+;;; VLisp project file [V2.0] layadd saved to:[c:\Users\SMartineau\OneDrive\Documents\GitHub\Op2\DynALisp\lsp-layer-tools\layadd] at:[2022-12-07]
+(VLISP-PROJECT-LIST 
+    :NAME
+    layadd
+    :OWN-LIST
+    ("designator" "gen" "layadd" "major" "minor" "phase")
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:standard))
+    :CONTEXT-ID
+    :AUTOLISP
+)
+;;; EOF

@@ -1,0 +1,16 @@
+;;; VLisp project file [V2.0] laysubstr saved to:[c:\Users\SMartineau\OneDrive\Documents\GitHub\Op2\DynALisp\lsp-layer-tools\laysubstr] at:[2022-12-07]
+(VLISP-PROJECT-LIST 
+    :NAME
+    laysubstr
+    :OWN-LIST
+    ("designator" "general" "laysubstr" "major" "minor" "phase")
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:standard))
+    :CONTEXT-ID
+    :AUTOLISP
+)
+;;; EOF
